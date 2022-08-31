@@ -1,1 +1,3 @@
-im confused o
+#!/bin/bash
+Working on shell bash
+
